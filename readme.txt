@@ -8,7 +8,7 @@ Amazon Sample Page
     * Search bar
     * Language
     * Sign in
-    * Retun & Orders
+    * Return & Orders
     * Cart
 
 2. Navigation Menu
